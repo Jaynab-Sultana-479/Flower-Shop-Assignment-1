@@ -89,6 +89,11 @@
 
 
 /* main section style  */
+.rectangle_shape{
+    display: flex;
+    
+}
+
 .Feature{
     background: #FFF;
     margin: 130px 48px 24px 40px;
@@ -102,7 +107,9 @@
     text-align: center;
     font-family: Lato;
     font-size: 40px;
+    font-style: normal;
     font-weight: 800;
+    line-height: normal;
     
     /* padding: 130px 48px 24px 40px; */
 }
@@ -111,10 +118,128 @@
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-family: Lato;
-    font-size: 18px;
-    /* width: 594px; */
-  
+    font-size: 18px; 
     font-weight: 400;
     line-height: 30px; 
+    margin-bottom: 32px;
+}
+.rectangle{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    color: #272727;
+    margin-right: 24px;
+
+}
+
+.rectangle .fig2{
+
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    padding: 110px 78px 0px 76px;;
+    align-items: center;
+    /* background: url("../Flower Asset/pngwing 6.png" ), lightgray 50% / cover no-repeat; */
+}
+.rectangle .Pink_Flower_Tree{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+.rectangle1{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 24px;
     
+
+}
+.rectangle1 .fig3{
+    width: 370px;
+    height: 370px;
+    flex-shrink: 0;
+    padding: 117px 47px 51px 47px; 
+    align-items: center;
+    
+        
+}
+.rectangle1 .Pink_Flower_Tree_2{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+.rectangle2{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-right: 240px;
+
+}
+.rectangle2 .fig4{
+    width: 314px;
+    height: 471px;
+    flex-shrink: 0;
+    padding: 67px 75px 0px 75px;  
+    align-items: center; 
+   
+}
+.rectangle2 .Pink_Flower_Tree_3{
+    
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+.rectangle_shape{
+    /* width: 1920px;
+    height: 4867px;  */
+    background: #FFF;
+    margin:0px 240px 200px 240px ;
+
+}
+.more_properties{
+    width: 1920px;
+    height: 4867px;
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.Rectangle6{
+    
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex; 
+    justify-content: space-around;
+   
+
+}
+/* .txt-primary-1,.txt-primary-2,.txt-primary-3 */
+.img1,.img2,.img3
+{
+    text-align: center;
+    margin-top: 86px;
 }
