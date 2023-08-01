@@ -1,0 +1,61 @@
+.nav{
+    padding: 1920px 4867px;
+    background: #FFF;
+    display: inline-flex;
+    justify-content: space-around;
+    
+}
+.text-color{
+    color: #272727;
+    font-family:Lato;
+    font-size:80px;
+    font-style:normal;
+    font-weight:800;
+    line-height:normal;
+    padding-right: 708px;
+    
+
+}
+.paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-family:Lato;
+    font-size:18px;
+    font-style:normal;
+    font-weight:400;
+    padding-right: 634px;
+    line-height: 30px;
+
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: 0;
+
+}
+button 
+
+
+nav > h3{
+    width: 708px;
+}
+nav > p{
+    width: 634px; 
+}
+nav > button{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px; 
+}
+img{
+    width: 635px;
+    height: 800px;
+    align-self:right;
+    flex-shrink: 0; 
+}
