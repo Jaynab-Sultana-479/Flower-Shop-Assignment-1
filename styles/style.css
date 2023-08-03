@@ -223,6 +223,7 @@
     background: #FFF;
     display: flex;
     justify-content: center;
+   
     /* align-items: center; */
 }
 .Rectangle6{
@@ -243,3 +244,107 @@
     text-align: center;
     margin-top: 86px;
 }
+/* sale-deal section  */
+.rectangle9{
+    width: 1922px;
+    margin: auto; 
+    padding: 50px 96px 0px 80px;
+    
+}
+
+.ad-content{
+
+    padding-top: 24px;
+    gap: 10px;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+    
+    }
+.ad-content > div{
+    width: 580px;
+    
+}
+
+.discount_deal{
+   width: 537px;
+    
+}
+    
+.ad-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+.off{
+
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+/* .ad-description{
+
+    width: 594px; 
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-top: 24px;
+} */
+.ad-description{
+
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    /* padding:0; */
+
+    margin:24px 0px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+
+     }
+
+
+ .ad-btn{
+
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    background: #E55473;
+    border: 0;
+    border-radius: 8px;
+    padding: 20px 43px;
+    text-align: center;
+    display: inline-block;
+
+}
+ .ad-img{
+    padding: 100px 0;
+    width: 1000px;
+    
+}
+.ad-rectangle{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+ }
