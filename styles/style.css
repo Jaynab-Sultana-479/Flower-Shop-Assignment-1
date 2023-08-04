@@ -1,47 +1,51 @@
-body{
+body {
     overflow-x: hidden;
 }
-.nav{
+
+.nav {
     /* padding: 1920px 4867px; */
     display: inline-flex;
     /* margin: 0 240px; */
     /* justify-content: space-around; */
-    
+
 }
-.text-color{
+
+.text-color {
     color: #272727;
-    font-family:Lato;
-    font-size:80px;
-    font-style:normal;
-    font-weight:800;
-    line-height:normal;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
     padding-right: 708px;
-    
+
 
 }
 
 
 
 /* header related styles */
-.header{
-    background:#ffe6ee;
+.header {
+    background: #ffe6ee;
     /* background-image: url("../Flower Asset/pngwing 10.png"); */
     background-repeat: no-repeat;
 }
 
-.banner{
+.banner {
     padding: 50px 96px 0px 80px;
     /* top, right, bottom, and left) */
     display: flex;
     justify-content: space-between;
-    
+
 
 }
-.banner-content{
+
+.banner-content {
 
     width: 634px;
 }
-.banner-title{
+
+.banner-title {
     margin-top: 197px;
     width: 708px;
     color: #272727;
@@ -51,8 +55,9 @@ body{
     font-weight: 800;
     line-height: normal;
     margin-bottom: 32px;
-    
+
 }
+
 .banner-description {
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
@@ -65,7 +70,7 @@ body{
 
 }
 
-.btn{
+.btn {
 
     color: #FFF;
     font-family: Lato;
@@ -81,31 +86,33 @@ body{
     border: 0;
     background: #E55473;
     margin-top: 32px;
-    
+
 }
-.banner .f1{
+
+.banner .f1 {
     width: 635px;
     height: 800px;
     flex-shrink: 0;
-    
+
 }
 
 
 /* main section style  */
-.rectangle_shape{
+.rectangle_shape {
     display: flex;
-    
+
 }
 
-.Feature{
+.Feature {
     background: #FFF;
     margin: 130px 48px 24px 40px;
     /* width: 1920px; */
     /* height: 4867px; */
 }
+
 /* feature section style  */
-.section-title{
-    
+.section-title {
+
     color: #272727;
     text-align: center;
     font-family: Lato;
@@ -113,20 +120,21 @@ body{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    
+
     /* padding: 130px 48px 24px 40px; */
 }
-.section-description
-{
+
+.section-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-family: Lato;
-    font-size: 18px; 
+    font-size: 18px;
     font-weight: 400;
-    line-height: 30px; 
+    line-height: 30px;
     margin-bottom: 32px;
 }
-.rectangle{
+
+.rectangle {
     width: 464px;
     height: 538px;
     flex-shrink: 0;
@@ -137,55 +145,63 @@ body{
 
 }
 
-.rectangle .fig2{
+.rectangle .fig2 {
 
     width: 310px;
     height: 428px;
     flex-shrink: 0;
-    padding: 110px 78px 0px 76px;;
+    padding: 110px 78px 0px 76px;
+    ;
     align-items: center;
     /* background: url("../Flower Asset/pngwing 6.png" ), lightgray 50% / cover no-repeat; */
 }
-.rectangle .Pink_Flower_Tree{
+
+.rectangle .Pink_Flower_Tree {
     color: #272727;
     text-align: center;
     font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 35px; /* 145.833% */
+    line-height: 35px;
+    /* 145.833% */
     text-decoration-line: underline;
 }
-.rectangle1{
+
+.rectangle1 {
     width: 464px;
     height: 538px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     margin-right: 24px;
-    
+
 
 }
-.rectangle1 .fig3{
+
+.rectangle1 .fig3 {
     width: 370px;
     height: 370px;
     flex-shrink: 0;
-    padding: 117px 47px 51px 47px; 
+    padding: 117px 47px 51px 47px;
     align-items: center;
-    
-        
+
+
 }
-.rectangle1 .Pink_Flower_Tree_2{
+
+.rectangle1 .Pink_Flower_Tree_2 {
     color: #272727;
     text-align: center;
     font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 35px; /* 145.833% */
+    line-height: 35px;
+    /* 145.833% */
     text-decoration-line: underline;
 }
-.rectangle2{
+
+.rectangle2 {
     width: 464px;
     height: 538px;
     flex-shrink: 0;
@@ -194,88 +210,98 @@ body{
     margin-right: 240px;
 
 }
-.rectangle2 .fig4{
+
+.rectangle2 .fig4 {
     width: 314px;
     height: 471px;
     flex-shrink: 0;
-    padding: 67px 75px 0px 75px;  
-    align-items: center; 
-   
+    padding: 67px 75px 0px 75px;
+    align-items: center;
+
 }
-.rectangle2 .Pink_Flower_Tree_3{
-    
+
+.rectangle2 .Pink_Flower_Tree_3 {
+
     color: #272727;
     text-align: center;
     font-family: Lato;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 35px; /* 145.833% */
+    line-height: 35px;
+    /* 145.833% */
     text-decoration-line: underline;
 }
-.rectangle_shape{
+
+.rectangle_shape {
     /* width: 1920px;
     height: 4867px;  */
     background: #FFF;
-    margin:0px 240px 200px 240px ;
+    margin: 0px 240px 200px 240px;
 
 }
-.more_properties{
+
+.more_properties {
     width: 1920px;
     height: 4867px;
     background: #FFF;
     display: flex;
     justify-content: center;
-   
+
     /* align-items: center; */
 }
-.Rectangle6{
-    
+
+.Rectangle6 {
+
     width: 1440px;
     height: 320px;
     flex-shrink: 0;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    display: flex; 
+    display: flex;
     justify-content: space-around;
-   
+
 
 }
+
 /* .txt-primary-1,.txt-primary-2,.txt-primary-3 */
-.img1,.img2,.img3
-{
+.img1,
+.img2,
+.img3 {
     text-align: center;
     margin-top: 86px;
 }
+
 /* sale-deal section  */
-.rectangle9{
+.rectangle9 {
     width: 1922px;
-    margin: auto; 
+    margin: auto;
     padding: 50px 96px 0px 80px;
-    
+
 }
 
-.ad-content{
+.ad-content {
 
     padding-top: 24px;
     gap: 10px;
-    display:flex;
-    align-items:center;
-    text-align:center;
+    display: flex;
+    align-items: center;
+    text-align: center;
     justify-content: center;
-    
-    }
-.ad-content > div{
-    width: 580px;
-    
+
 }
 
-.discount_deal{
-   width: 537px;
-    
+.ad-content>div {
+    width: 580px;
+
 }
-    
-.ad-title{
+
+.discount_deal {
+    width: 537px;
+
+}
+
+.ad-title {
     color: #272727;
     font-family: Lato;
     font-size: 40px;
@@ -284,7 +310,8 @@ body{
     line-height: normal;
     text-align: center;
 }
-.off{
+
+.off {
 
     color: #E55473;
     font-family: Lato;
@@ -293,6 +320,7 @@ body{
     font-weight: 800;
     line-height: normal;
 }
+
 /* .ad-description{
 
     width: 594px; 
@@ -305,24 +333,24 @@ body{
     line-height: 30px; 
     margin-top: 24px;
 } */
-.ad-description{
+.ad-description {
 
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
     /* padding:0; */
 
-    margin:24px 0px;
+    margin: 24px 0px;
     text-align: center;
     font-family: Lato;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 30px; 
+    line-height: 30px;
 
-     }
+}
 
 
- .ad-btn{
+.ad-btn {
 
     color: #FFF;
     font-family: Lato;
@@ -342,17 +370,20 @@ body{
     display: inline-block;
 
 }
- .ad-img{
+
+.ad-img {
     padding: 100px 0;
     width: 1000px;
-    
+
 }
-.ad-rectangle{
+
+.ad-rectangle {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
- }
- /* Instagram section design  */
- .insta-section-title{
+}
+
+/* Instagram section design  */
+.insta-section-title {
     color: #272727;
     text-align: center;
     font-family: Lato;
@@ -361,16 +392,121 @@ body{
     font-weight: 800;
     line-height: normal;
     padding-top: 30px;
-    
-    }
- 
- #inst-paragraph{
+
+}
+
+#inst-paragraph {
     padding: 24px 663px 48px 663px;
     text-align: center;
- }
-.instagram-container{
+}
+
+.instagram-container {
     display: flex;
     justify-content: center;
     gap: 24px;
     text-align: center;
 }
+
+/* new deal section  */
+.latest-deal-container {
+
+    border-radius: 8px;
+    background-image: url("../Flower Asset/Rectangle9");
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    align-items: center;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+
+.new-deal-section {
+    padding-bottom: 100px;
+}
+
+.deal-paragraph-container {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.new-deal-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.contact input [type="email"] {
+    display: inline;
+    gap: 16px;
+    padding: 23px 513px 22px 22px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+}
+
+
+/* last rectangle design  */
+.lastSection {
+    /* width: 1922px; */
+    height: 449px;
+    /* flex-shrink: 0; */
+    background: #111010;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.last-title {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+
+
+}
+
+.shop {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.last-section-description {
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.copyright
+    {
+        color: rgba(255, 255, 255, 0.40);
+        text-align: center;
+        font-family: Lato;
+        font-size: 16px;
+        font-weight: 400;
+        
+    }
